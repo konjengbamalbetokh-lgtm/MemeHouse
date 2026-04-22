@@ -381,7 +381,7 @@ const STUDENTS = [
     meme: null, reason: null },
   { name: "TRISHANKA YUMLEMBAM",
     roll: "NDUIBC2547", course: "BCA (4 Years)", section: "Section B",
-    meme: images/NDUIBC2547 BCA-2B.gif, reason: When you're watching peak cinema.. },
+    meme: "./images/NDUIBC2547 BCA-2B.gif", reason: "When you're watching peak cinema.."},
   { name: "WANGKHEM INAOTOMBA SINGH",
     roll: "NDUIBC2548", course: "BCA (4 Years)", section: "Section B",
     meme: null, reason: null },
