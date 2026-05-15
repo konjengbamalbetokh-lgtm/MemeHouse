@@ -85,7 +85,7 @@ const STUDENTS = [
   // ── BCA Section A ────────────────────────────────────────────────────
   { name: "KONJENGBAM ALBERTO",
     roll: "NDUIBC2445", course: "BCA (4 Years)", section: "Section A",
-    meme: null, reason: null },
+    meme: "./images/albeto.jpg", reason: "ummmmmm" },
   { name: "ASEM HITLER",
     roll: "NDUIBC2446", course: "BCA (4 Years)", section: "Section A",
     meme: null, reason: null },
